@@ -58,8 +58,6 @@ SimpleDFTD3 = "fe85623b-bee7-4aac-b682-558b6887eb82"
 WriteVTK = "64499a7a-5c06-52f2-abe2-ccb03c286192"
 wannier90_jll = "c5400fa0-8d08-52c2-913f-1e3f656c1ce9"
 
-[sources]
-Wannier = {path = "../Wannier-dev"}
 
 [extensions]
 DFTKAMDGPUExt = ["MPI", "AMDGPU"]
